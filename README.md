@@ -10,8 +10,8 @@ It contains the code and links to obtain pre-trained models, as well as the step
     - CIFAR-10, which uses Pytorch datasets
     - INaturalist, which uses image folders
   - INaturalist: start with Extract_FE_INat.py
-    - link to pre-trained model: 
-    - link to training files:
+    - link to pre-trained model: https://drive.google.com/file/d/1UwL9cN8uUzydTEOZcjmaZxWsLbpOEImT/view?usp=sharing
+    - link to training files: https://drive.google.com/file/d/1w-QtWxrqf4E3kimb2IxlJGTlN6nnRjpz/view?usp=sharing
     - link to download data: https://github.com/visipedia/inat_comp/tree/master/2017
 
 
