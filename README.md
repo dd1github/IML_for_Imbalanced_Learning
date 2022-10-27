@@ -8,6 +8,8 @@ It contains the code and links to obtain pre-trained models, as well as the step
 1. Extract FE from a trained model.
   - Start with Extract_FE.py
     - link to pre-trained model used by Extract_FE: https://drive.google.com/file/d/18yWsVlUNVrSMq4qTlY2d9MPHThZaSWUK/view?usp=sharing
+    - link to extracted FE data: 
+    - link to extracted class accuracies: 
     
     
 
