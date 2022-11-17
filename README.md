@@ -1,4 +1,4 @@
-# XAI_for_Imbalanced_Learning
+# IML_for_Imbalanced_Learning
 
 ![Framework](/framework1.png)
 
